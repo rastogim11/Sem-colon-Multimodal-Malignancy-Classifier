@@ -28,9 +28,10 @@ What’s next for Semicolon
 
 Next, we’ll implement the clinical-data ML component and fuse it with imaging for stronger predictions. We plan to benchmark our model against Gemini to compare accuracy and reliability. We’ll also complete the patient-to-doctor connection: matching users to nearby specialists in their specific cancer type and factoring in location, insurance, and other compatibility signals.
 
-#Try it Out:
+# Try it Out:
 
 To run the backend, be in the project/backend and run:
     uvicorn main:app --reload --port 8000
 
-To run the application, start the frontend by going to frontend: npm run dev
+To run the application, start the frontend by project and run: 
+    npm run dev
