@@ -1,5 +1,7 @@
 **Welcome to SemiColon!**
 
+# ;
+
 # Inspiration
 
 Through our friend's experiences working at doctors' offices, we were reminded how deadly colon cancer can be—and how a single miss by a radiologist can change a life. We believe technology should reduce that risk, not add to it. We named the project Semicolon because we don’t want to stop at colon cancer; our goal is to expand to many cancers.
